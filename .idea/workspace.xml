@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b99e02f-51fd-48d5-805a-fb803c911a88" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devdojo-springboot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/devdojo-springboot.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/devdojo/awesome/endpoint/StudentEndPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/devdojo/awesome/endpoint/StudentEndPoint.java" afterDir="false" />
-    </list>
+    <list default="true" id="9b99e02f-51fd-48d5-805a-fb803c911a88" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,9 +9,6 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="CompilerWorkspaceConfiguration">
-    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -60,8 +52,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/br/com/devdojo/awesome/endpoint/StudentEndPoint.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+            <state relative-caret-position="374">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -250,7 +242,7 @@
       <workItem from="1545228602266" duration="2628000" />
       <workItem from="1545235587547" duration="12000" />
       <workItem from="1545245468773" duration="2660000" />
-      <workItem from="1545248170171" duration="116000" />
+      <workItem from="1545248170171" duration="289000" />
     </task>
     <task id="LOCAL-00001" summary="Aula 01 - Setup do projeto - Continuar">
       <created>1545228908912</created>
@@ -273,15 +265,21 @@
       <option name="project" value="LOCAL" />
       <updated>1545247648370</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Continuar da aula 05.">
+      <created>1545248328040</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1545248328040</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7894000" />
+    <option name="totallyTimeSpent" value="8067000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1967" y="25" width="1873" height="1055" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19102353" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -367,7 +365,8 @@
     <MESSAGE value="Aula 01 - Setup do projeto - Continuar" />
     <MESSAGE value="Aula 02 - Setup do projeto. Continuar a partir da aula 03." />
     <MESSAGE value="Continuar da aula 04." />
-    <option name="LAST_COMMIT_MESSAGE" value="Continuar da aula 04." />
+    <MESSAGE value="Continuar da aula 05." />
+    <option name="LAST_COMMIT_MESSAGE" value="Continuar da aula 05." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
@@ -417,8 +416,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/br/com/devdojo/awesome/endpoint/StudentEndPoint.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+        <state relative-caret-position="374">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
